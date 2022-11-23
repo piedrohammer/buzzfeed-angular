@@ -1,5 +1,21 @@
 # ProjetoBuzzfeed
 
+## Desafio de Projeto da Dio para Criar um Clone do BuzzFeed com Angular :computer: :crystal_ball: 
+
+## Projeto base e referência: https://github.com/felipeAguiarCode/angular-blog
+## Ferramentas Utilizadas
+<ul>
+  <li>VSCode</li>
+  <li>Angular</li>
+  <li>TypeScript</li>
+  <li>Node</li>
+</ul>
+
+<h1>Home Page<h1>
+<div align="center">
+<img src="https://user-images.githubusercontent.com/89158456/203595856-70061a5d-2079-4d33-a771-db8411ceaa56.png"/>
+</div>
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.0.0.
 
 ## Development server
